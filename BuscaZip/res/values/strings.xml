@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="APP_NAME">Comuna y Código Postal</string>
+    <string name="PREFIJO">Prefijo Provincia:</string>
+    <string name="COPY_ZIP">\"Código Postal\"</string>
+    <string name="COPY_ROW">\"Código Postal : Provincia\"</string>
+    <string name="CALL">Llamar</string>
+    <string name="COPY">Copiar desde:</string>
+    <string name="COPIED"></string>
+
+    <!-- ABOUT CONTEXT -->
+    <string name="ABOUT">Acerca de</string>
+    <string name="ACTIVITY_ABOUT">Acerca de&#8230;</string>
+
+    <!-- ABOUT -->
+    <string name="DEV_DEVELOPED_TXT">Programación y desarrollo por:</string>
+    <string name="DEV_DEVELOPED_BY">Claudio Barrera Asencio</string>
+    <string name="DEV_DEVELOPED_MAIL">cbarreraq2@gmail.com</string>
+    <string name="DEV_LAYOUT_TXT">Gráfica desarrollada por:</string>
+    <string name="DEV_LAYOUT_BY">Pablo Monares</string>
+    <string name="DEV_LAYOUT_MAIL">monarespablo@gmail.com</string>
+    <string name="DEV_VOLVER">Volver</string>
+    <string name="SEND_DEVELOPER">Enviar Mail Desarrollador</string>
+    <string name="SEND_LAYOUT">Enviar Mail Diseñador</string>
+
+    <!-- MAIL -->
+    <string name="SUBJECT">APP: Busca Comuna</string>
+    <string name="EXTRAS"></string>
+    <string name="CHOICE">Elija una Aplicación</string>
+    <string name="SENDING">Preparando</string>
+
+</resources>
